@@ -3,7 +3,7 @@ const fs = require('fs')
 const path = require('path')
 
 const entry = {}
-const files = fs.readdirSync('./build').map(file => entry[file] = `./build/${file}`)
+const files = fs.readdirSync('./build').map(file => entry[file.replace(/.js$/, '')] = `./build/${file}`)
 
 module.exports = {
     entry,
