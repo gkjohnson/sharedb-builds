@@ -1,0 +1,1 @@
+window.ShareDB.types.register(require('rich-text').type)
