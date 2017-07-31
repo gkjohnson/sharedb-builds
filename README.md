@@ -11,12 +11,15 @@ Repo housing pre-compiled builds of [ShareDB](https://github.com/share/sharedb) 
 <script type="text/javascript" src=".../sharedb-builds/dist/sharedb-client.min.js"></script>
 <script type="text/javascript" src=".../sharedb-builds/ot-text.min.js"></script>
 <script>
-  console.log(window.ShareDB) // It's here!
+  console.log(window.ShareDB)               // It's here!
+  console.log(window.ShareDBypes.map.text)  // This too!
 </script>
 ```
 
 ## Building
 Run `npm run build` to minify and build every entry file in `/build`
+
+Run `npm run update` to update all packages and create a new build 
 
 ## Folder Structure
 ### /build
