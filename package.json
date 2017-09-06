@@ -1,13 +1,11 @@
 {
-  "name": "sharedb-builds",
-  "version": "1.0.0",
+  "name": "@gkjohnson/sharedb-builds",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "babel-loader": "^7.1.1",
-    "sharedb": "^1.0.0-beta.7"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "babel-loader": "^7.1.1",
+    "sharedb": "^1.0.0-beta.7",
     "babel-core": "^6.25.0",
     "ot-json0": "^1.0.1",
     "ot-text": "^1.0.1",
