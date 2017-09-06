@@ -1,7 +1,7 @@
 {
   "name": "@gkjohnson/sharedb-builds",
   "version": "0.0.1",
-  "description": "",
+  "description": "Prebuilt versions of the ShareDB Client and OT Types",
   "dependencies": {},
   "devDependencies": {
     "babel-loader": "^7.1.1",
