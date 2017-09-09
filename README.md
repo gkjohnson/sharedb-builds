@@ -1,6 +1,13 @@
 # sharedb-builds
 
-Repo housing pre-compiled builds of [ShareDB](https://github.com/share/sharedb) and basic [OT Types](https://github.com/ottypes) for the browser using WebPack because by default ShareDB requires WebPack or Browserify to use
+Repo housing pre-compiled builds of [ShareDB](https://github.com/share/sharedb) and basic [OT Types](https://github.com/ottypes) for the browser using WebPack because by default ShareDB requires WebPack or Browserify to use.
+
+## Installation
+The repo is provided on npm [here](https://www.npmjs.com/package/@gkjohnson/sharedb-builds).
+
+```
+npm install @gkjohnson/sharedb-builds
+```
 
 ## Use
 ```html
