@@ -19,6 +19,15 @@
     "update": "npm update --save & npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "collaboration",
+    "share",
+    "sharedb",
+    "webpack",
+    "precompiled",
+    "prebuilt",
+    "packages"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gkjohnson/sharedb-builds.git"
