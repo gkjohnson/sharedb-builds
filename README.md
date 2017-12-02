@@ -1,6 +1,8 @@
 # sharedb-builds
 
-Repo housing pre-compiled builds of [ShareDB](https://github.com/share/sharedb) and basic [OT Types](https://github.com/ottypes) for the browser using WebPack because by default ShareDB requires WebPack or Browserify to use
+[![npm version](https://badge.fury.io/js/%40gkjohnson%2Fsharedb-builds.svg)](https://www.npmjs.com/package/@gkjohnson/sharedb-builds)
+
+Repo housing pre-compiled builds of [ShareDB](https://github.com/share/sharedb) and basic [OT Types](https://github.com/ottypes) for the browser using WebPack because by default ShareDB requires WebPack or Browserify to use.
 
 ## Use
 ```html
